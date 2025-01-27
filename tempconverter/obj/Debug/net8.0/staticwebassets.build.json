@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "eSmSbb59c3Wp6cCDyBaAXXPGVQQfcvT2TcFfT/+pRtw=",
+  "Source": "tempconverter",
+  "BasePath": "_content/tempconverter",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "tempconverter\\wwwroot",
+      "Source": "tempconverter",
+      "ContentRoot": "C:\\Users\\Instruktor\\Documents\\tempconverter\\wwwroot\\",
+      "BasePath": "_content/tempconverter",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Instruktor\\Documents\\tempconverter\\wwwroot\\index.html",
+      "SourceId": "tempconverter",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Instruktor\\Documents\\tempconverter\\wwwroot\\",
+      "BasePath": "_content/tempconverter",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
